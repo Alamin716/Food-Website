@@ -72,17 +72,63 @@ img {
 }
 
 .burger {
-    width: 25%;
+    width: 30%;
+}
+
+.burger a {}
+
+.burger a p {
+    margin-left: 75px;
+}
+
+#burger {
+    width: 200px;
+    margin: 15px 15px 15px 15px;
 }
 
 .pizza-menu {
-    width: 25%;
+    width: 30%;
+}
+
+.pizza-menu a {}
+
+.pizza-menu a p {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+#pizza {
+    width: 220px;
+    margin: 15px 15px 15px 15px;
 }
 
 .oip-menu {
-    width: 25%;
+    width: 30%;
+}
+
+.oip-menu a {}
+
+.oip-menu a p {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+#oip {
+    width: 183px;
+    margin: 15px 15px 15px 15px;
 }
 
 .sandwice-menu {
-    width: 25%;
+    width: 30%;
+}
+
+.sandwice-menu a {}
+
+.sandwice-menu a p {
+    margin-left: 70px;
+}
+
+#sandwice {
+    width: 172px;
+    margin: 15px 15px 15px;
 }
