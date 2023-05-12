@@ -1,3 +1,44 @@
 body {
     font-family: 'Raleway', sans-serif;
 }
+
+.section-menu {
+    display: flex;
+    background-color: lightcyan;
+}
+
+.left-menu {
+    width: 60%;
+    margin: 20px;
+    margin-left: 120px;
+
+}
+
+.left-menu a {
+    text-decoration: none;
+    margin-left: 80px;
+}
+
+.logo {
+    width: 20%;
+}
+
+img {
+    width: 50%;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.right-menu {
+    width: 60%;
+    margin: 20px;
+    margin-right: 120px;
+    text-align: right;
+}
+
+.right-menu a {
+    text-decoration: none;
+    margin-right: 80px;
+}
