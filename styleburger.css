@@ -66,23 +66,3 @@ img {
 #food-text hr {
     width: 175px;
 }
-
-.food-menu {
-    display: flex;
-}
-
-.burger {
-    width: 25%;
-}
-
-.pizza-menu {
-    width: 25%;
-}
-
-.oip-menu {
-    width: 25%;
-}
-
-.sandwice-menu {
-    width: 25%;
-}
